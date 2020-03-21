@@ -5,7 +5,7 @@
 
 
 <!-- Home -->
-<section class="hero-wrap js-fullheight" style="background-image: url('images/Background2.jpg');" data-section="home">
+<section class="hero-wrap js-fullheight" style="background-image: url('images/Background3.jpg');" data-section="home">
     <div class="overlay"></div>
     <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start"
@@ -397,7 +397,7 @@
 </section>
 
 <!-- Contact -->
-<section class="ftco-section contact-section ftco-no-pb" data-section="contact">
+<!-- <section class="ftco-section contact-section ftco-no-pb" data-section="contact">
     <div class="container">
         <div class="row justify-content-center mb-5 pb-3">
             <div class="col-md-7 heading-section text-center ftco-animate">
@@ -434,10 +434,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- Contact info -->
-<section class="ftco-section contact-section">
+<section class="ftco-section contact-section"  data-section="contact">
     <div class="container">
         <div class="row d-flex contact-info">
             
@@ -457,7 +457,7 @@
                         <img style='width: 3rem;' src='images/Phone.png' >
                     </div>
                     <h3 class="mb-4">Contact Number</h3>
-                    <p><a href="tel://1234567920">+ 1235 2355 98</a></p>
+                    <p><a href="tel://1234567920">+963-21-2126060</a></p>
                 </div>
             </div>
             

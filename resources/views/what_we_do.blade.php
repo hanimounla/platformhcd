@@ -3,7 +3,7 @@
 @section('content')
 
 <!-- Home -->
-<section class="hero-wrap js-fullheight" style="background-image: url('images/background.jpg');" data-section="home">
+<section class="hero-wrap js-fullheight" style="background-image: url('images/background3.jpg');" data-section="home">
     <div class="overlay"></div>
     <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start"
@@ -175,16 +175,20 @@
                         <li>Change management</li>
                     </ul>
 
-                    <h3> • Social change:</h3>
-                    <p>Aims to empower organizations and teams delivering value to communities and making change in the
-                        social and humanitarian fields. Topics include:</p>
-                    <ul>
-                        <li>Advocacy and campaigning</li>
-                        <li>GBV in theory and practice</li>
-                        <li>Building a program logic framework</li>
-                        <li>How to plan and lead your community initiative </li>
-                        <li>Basics of CSR</li>
-                    </ul>
+                    <div>
+                        <h3> • Social change:</h3>
+                        <p>Aims to empower organizations and teams delivering value to communities and making change in
+                            the
+                            social and humanitarian fields. Topics include:</p>
+                        <ul>
+                            <li>Advocacy and campaigning</li>
+                            <li>GBV in theory and practice</li>
+                            <li>Building a program logic framework</li>
+                            <li>How to plan and lead your community initiative </li>
+                            <li>Basics of CSR</li>
+                        </ul>
+                    </div>
+
                 </div>
             </div>
         </div>
